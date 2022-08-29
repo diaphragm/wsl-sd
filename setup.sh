@@ -35,6 +35,8 @@ mkdir -p stable-diffusion/models/ldm/stable-diffusion-v1
 mv stable-diffusion-v-1-4-original/sd-v1-4.ckpt stable-diffusion/models/ldm/stable-diffusion-v1/model.ckpt
 rm -rf stable-diffusion-v-1-4-original
 
+# setup trinart model data
+git clone https://:$token@huggingface.co/naclbit/trinart_stable_diffusion
 
 # setup GFPGAN
 wget -P stable-diffusion/src/gfpgan/experiments/pretrained_models \
