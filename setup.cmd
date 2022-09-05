@@ -1,1 +1,1 @@
-wsl -- bash setup.sh
+wsl -- bash sh/setup.sh

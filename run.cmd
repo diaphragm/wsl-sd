@@ -1,1 +1,1 @@
-wsl -- bash -i run.sh
+wsl -- bash -i sh/run.sh

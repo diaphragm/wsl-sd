@@ -1,3 +1,8 @@
 token
+outputs/
 stable-diffusion/
 trinart_stable_diffusion/
+stable-diffusion-v-1-4-original/
+latent-diffusion/
+gfpgan/
+realesrgan/
