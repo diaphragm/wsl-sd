@@ -1,8 +1,10 @@
 token
 outputs/
-stable-diffusion/
+stable-diffusion-webui/
 trinart_stable_diffusion/
+trinart_stable_diffusion_v2/
 stable-diffusion-v-1-4-original/
+waifu-diffusion-model/
 latent-diffusion/
 gfpgan/
 realesrgan/

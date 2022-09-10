@@ -1,4 +1,3 @@
-git clone https://github.com/hlky/stable-diffusion.git
-cd stable-diffusion
+git clone https://github.com/sd-webui/stable-diffusion-webui.git
+cd stable-diffusion-webui
 conda env create -f environment.yaml
-echo "conda activate ldm" >> ~/.bashrc

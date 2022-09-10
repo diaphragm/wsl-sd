@@ -15,10 +15,11 @@ bash sh/setup/model.sh
 # setup trinart model data
 bash sh/setup/trinart.sh
 
+# setup wifu model data
+bash sh/setup/wd.sh
+
 # setup stable-diffusion (fork)
 bash sh/setup/sd.sh
 
 # setup upscale
 bash sh/setup/upscale.sh
-
-. ~/.bashrc
